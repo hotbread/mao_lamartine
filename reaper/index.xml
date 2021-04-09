@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Reaper on MAO LAMARTINE</title>
-    <link>http://example.org/reaper/</link>
+    <link>https://hotbread.github.io/mao_lamartine/reaper/</link>
     <description>Recent content in Reaper on MAO LAMARTINE</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 28 Mar 2021 20:05:15 +0200</lastBuildDate><atom:link href="http://example.org/reaper/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 28 Mar 2021 20:05:15 +0200</lastBuildDate><atom:link href="https://hotbread.github.io/mao_lamartine/reaper/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Francais</title>
-      <link>http://example.org/reaper/francais/</link>
+      <link>https://hotbread.github.io/mao_lamartine/reaper/francais/</link>
       <pubDate>Fri, 09 Apr 2021 08:31:44 +0200</pubDate>
       
-      <guid>http://example.org/reaper/francais/</guid>
+      <guid>https://hotbread.github.io/mao_lamartine/reaper/francais/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Decouverte</title>
-      <link>http://example.org/reaper/decouverte/</link>
+      <link>https://hotbread.github.io/mao_lamartine/reaper/decouverte/</link>
       <pubDate>Fri, 09 Apr 2021 08:31:30 +0200</pubDate>
       
-      <guid>http://example.org/reaper/decouverte/</guid>
+      <guid>https://hotbread.github.io/mao_lamartine/reaper/decouverte/</guid>
       <description></description>
     </item>
     

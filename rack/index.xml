@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>VCV Rack on MAO LAMARTINE</title>
-    <link>http://example.org/rack/</link>
+    <link>https://hotbread.github.io/mao_lamartine/rack/</link>
     <description>Recent content in VCV Rack on MAO LAMARTINE</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 28 Mar 2021 20:05:23 +0200</lastBuildDate><atom:link href="http://example.org/rack/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 28 Mar 2021 20:05:23 +0200</lastBuildDate><atom:link href="https://hotbread.github.io/mao_lamartine/rack/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Modules</title>
-      <link>http://example.org/rack/modules/</link>
+      <link>https://hotbread.github.io/mao_lamartine/rack/modules/</link>
       <pubDate>Fri, 09 Apr 2021 09:15:44 +0200</pubDate>
       
-      <guid>http://example.org/rack/modules/</guid>
+      <guid>https://hotbread.github.io/mao_lamartine/rack/modules/</guid>
       <description>   </description>
     </item>
     
