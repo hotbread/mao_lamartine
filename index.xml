@@ -8,11 +8,83 @@
     <language>en-us</language>
     <lastBuildDate>Sat, 20 Mar 2021 00:08:25 +0100</lastBuildDate><atom:link href="https://hotbread.github.io/mao_lamartine/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>#5 - Personalisation</title>
-      <link>https://hotbread.github.io/mao_lamartine/reaper/personalisation/</link>
-      <pubDate>Mon, 12 Apr 2021 19:37:14 +0200</pubDate>
+      <title>#12 Raccourcci clavier</title>
+      <link>https://hotbread.github.io/mao_lamartine/reaper/raccourcci/</link>
+      <pubDate>Sat, 17 Apr 2021 09:17:21 +0200</pubDate>
       
-      <guid>https://hotbread.github.io/mao_lamartine/reaper/personalisation/</guid>
+      <guid>https://hotbread.github.io/mao_lamartine/reaper/raccourcci/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>#11 - Personnalisation</title>
+      <link>https://hotbread.github.io/mao_lamartine/reaper/personnalisation/</link>
+      <pubDate>Sat, 17 Apr 2021 09:17:11 +0200</pubDate>
+      
+      <guid>https://hotbread.github.io/mao_lamartine/reaper/personnalisation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>#10 - Quo Vadis (part2)</title>
+      <link>https://hotbread.github.io/mao_lamartine/reaper/quo_vadis2/</link>
+      <pubDate>Sat, 17 Apr 2021 09:15:14 +0200</pubDate>
+      
+      <guid>https://hotbread.github.io/mao_lamartine/reaper/quo_vadis2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>#9 - Quo Vadis (part1)</title>
+      <link>https://hotbread.github.io/mao_lamartine/reaper/quo_vadis/</link>
+      <pubDate>Sat, 17 Apr 2021 09:13:55 +0200</pubDate>
+      
+      <guid>https://hotbread.github.io/mao_lamartine/reaper/quo_vadis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>#8 - Les synthetiseurs</title>
+      <link>https://hotbread.github.io/mao_lamartine/reaper/synthetiseur/</link>
+      <pubDate>Sat, 17 Apr 2021 09:11:26 +0200</pubDate>
+      
+      <guid>https://hotbread.github.io/mao_lamartine/reaper/synthetiseur/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>#7 - Drum kit</title>
+      <link>https://hotbread.github.io/mao_lamartine/reaper/drum_kit/</link>
+      <pubDate>Sat, 17 Apr 2021 09:10:58 +0200</pubDate>
+      
+      <guid>https://hotbread.github.io/mao_lamartine/reaper/drum_kit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>#6 - Instrument_virtuel</title>
+      <link>https://hotbread.github.io/mao_lamartine/reaper/instrument_virtuel/</link>
+      <pubDate>Sat, 17 Apr 2021 09:08:34 +0200</pubDate>
+      
+      <guid>https://hotbread.github.io/mao_lamartine/reaper/instrument_virtuel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>#1 - Présentation</title>
+      <link>https://hotbread.github.io/mao_lamartine/synthese/synthese_soustractive/</link>
+      <pubDate>Sat, 17 Apr 2021 09:06:33 +0200</pubDate>
+      
+      <guid>https://hotbread.github.io/mao_lamartine/synthese/synthese_soustractive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>#5 - Effet &amp; Plug-in</title>
+      <link>https://hotbread.github.io/mao_lamartine/reaper/effet/</link>
+      <pubDate>Sat, 17 Apr 2021 08:53:28 +0200</pubDate>
+      
+      <guid>https://hotbread.github.io/mao_lamartine/reaper/effet/</guid>
       <description></description>
     </item>
     
@@ -53,7 +125,7 @@
     </item>
     
     <item>
-      <title>#2 - Le monotoring</title>
+      <title>#2 - Le monitoring</title>
       <link>https://hotbread.github.io/mao_lamartine/reaper/monotoring/</link>
       <pubDate>Sat, 10 Apr 2021 19:28:27 +0200</pubDate>
       
@@ -62,7 +134,7 @@
     </item>
     
     <item>
-      <title>Modules</title>
+      <title>Les modules</title>
       <link>https://hotbread.github.io/mao_lamartine/rack/modules/</link>
       <pubDate>Fri, 09 Apr 2021 09:15:44 +0200</pubDate>
       
