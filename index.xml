@@ -8,6 +8,15 @@
     <language>en-us</language>
     <lastBuildDate>Sat, 20 Mar 2021 00:08:25 +0100</lastBuildDate><atom:link href="https://hotbread.github.io/mao_lamartine/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>#2 - Le séquencer</title>
+      <link>https://hotbread.github.io/mao_lamartine/rack/sequencer/</link>
+      <pubDate>Mon, 26 Apr 2021 16:41:24 +0200</pubDate>
+      
+      <guid>https://hotbread.github.io/mao_lamartine/rack/sequencer/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
       <title>Tablatures</title>
       <link>https://hotbread.github.io/mao_lamartine/musescore/tablatures/</link>
       <pubDate>Sat, 24 Apr 2021 11:58:55 +0200</pubDate>
@@ -143,7 +152,7 @@
     </item>
     
     <item>
-      <title>Les modules</title>
+      <title>#1 - Les modules</title>
       <link>https://hotbread.github.io/mao_lamartine/rack/modules/</link>
       <pubDate>Fri, 09 Apr 2021 09:15:44 +0200</pubDate>
       
