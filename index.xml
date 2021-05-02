@@ -8,6 +8,44 @@
     <language>en-us</language>
     <lastBuildDate>Sat, 20 Mar 2021 00:08:25 +0100</lastBuildDate><atom:link href="https://hotbread.github.io/mao_lamartine/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Comment utiliser ce site ?</title>
+      <link>https://hotbread.github.io/mao_lamartine/utilisation/</link>
+      <pubDate>Sun, 02 May 2021 23:07:49 +0200</pubDate>
+      
+      <guid>https://hotbread.github.io/mao_lamartine/utilisation/</guid>
+      <description>Dans ce site vous trouverez:  Des tutoriels vidéos consacrés à différents logiciels de MAO. Des cours théoriques qui vous donneront les premières notions sur ce qu&amp;rsquo;est un son et la chaîne du son. Vous y apprendrez tout le vocabulaire utilisé dans les logiciels de MAO. Vous trouverez ces cours dans le menu « synthèse sonore » .  Evidemment, il existe une multitude de logiciels dans l&amp;rsquo;univers de la MAO qui font plus ou moins les mêmes choses.</description>
+    </item>
+    
+    <item>
+      <title>Quel matériel faut-il pour débuter en MAO?</title>
+      <link>https://hotbread.github.io/mao_lamartine/materiel/</link>
+      <pubDate>Sun, 02 May 2021 23:07:41 +0200</pubDate>
+      
+      <guid>https://hotbread.github.io/mao_lamartine/materiel/</guid>
+      <description>Quand vous chantez ou jouez de votre instrument, vous produisez une perturbation de l’air se propageant dans l&amp;rsquo;espace. Le son, c&amp;rsquo;est de l&amp;rsquo;air qui vibre. Le MICRO est l&amp;rsquo;élément qui va capter cette vibration acoustique pour la transformer en un signal électrique de même allure qu&amp;rsquo;on appelle aussi signal audio. Pour que votre ordinateur comprenne ce signal audio, vous aurez besoin d’un périphérique, l’INTERFACE AUDIO (carte son) qui transformera ce signal audio en signal numérique (des 0 et des 1) pour le transmettre à l’ordinateur.</description>
+    </item>
+    
+    <item>
+      <title>Qu&#39;est-ce que la MAO ?</title>
+      <link>https://hotbread.github.io/mao_lamartine/mao/</link>
+      <pubDate>Sun, 02 May 2021 23:07:19 +0200</pubDate>
+      
+      <guid>https://hotbread.github.io/mao_lamartine/mao/</guid>
+      <description>Le sigle MAO veut dire Musique Assistée par Ordinateur. Pour faire simple, la MAO, c&amp;rsquo;est l&amp;rsquo;informatique au service de la musique. C&amp;rsquo;est l&amp;rsquo;ensemble des outils informatiques qui vont vous permettre d&amp;rsquo;enregistrer, de créer, composer, éditer des partitions et même apprendre la musique à travers des logiciels de pédagogie (Ex: Ear Training)
+La MAO apparaît dans les années 70 avec les synthétiseurs et l&amp;rsquo;idée de les associer à des ordinateurs. Mais c&amp;rsquo;est surtout dans les années 80 que La MAO va se démocratiser.</description>
+    </item>
+    
+    <item>
+      <title>La synthèse soustractive</title>
+      <link>https://hotbread.github.io/mao_lamartine/synthese/soustractive/</link>
+      <pubDate>Wed, 28 Apr 2021 21:40:50 +0200</pubDate>
+      
+      <guid>https://hotbread.github.io/mao_lamartine/synthese/soustractive/</guid>
+      <description>Le cours théorique - les notions de base sont ici:
+https://www.notion.so/Synth-se-soustractive-7ff70aba38fc42d4a0ca7db0504c9a63</description>
+    </item>
+    
+    <item>
       <title>#2 - Le séquenceur</title>
       <link>https://hotbread.github.io/mao_lamartine/rack/sequencer/</link>
       <pubDate>Mon, 26 Apr 2021 16:41:24 +0200</pubDate>
@@ -85,15 +123,6 @@
       <pubDate>Sat, 17 Apr 2021 09:08:34 +0200</pubDate>
       
       <guid>https://hotbread.github.io/mao_lamartine/reaper/instrument_virtuel/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>#1 - Présentation</title>
-      <link>https://hotbread.github.io/mao_lamartine/synthese/synthese_soustractive/</link>
-      <pubDate>Sat, 17 Apr 2021 09:06:33 +0200</pubDate>
-      
-      <guid>https://hotbread.github.io/mao_lamartine/synthese/synthese_soustractive/</guid>
       <description></description>
     </item>
     

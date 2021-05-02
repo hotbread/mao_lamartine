@@ -8,12 +8,13 @@
     <language>en-us</language>
     <lastBuildDate>Sat, 17 Apr 2021 09:05:39 +0200</lastBuildDate><atom:link href="https://hotbread.github.io/mao_lamartine/synthese/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>#1 - Présentation</title>
-      <link>https://hotbread.github.io/mao_lamartine/synthese/synthese_soustractive/</link>
-      <pubDate>Sat, 17 Apr 2021 09:06:33 +0200</pubDate>
+      <title>La synthèse soustractive</title>
+      <link>https://hotbread.github.io/mao_lamartine/synthese/soustractive/</link>
+      <pubDate>Wed, 28 Apr 2021 21:40:50 +0200</pubDate>
       
-      <guid>https://hotbread.github.io/mao_lamartine/synthese/synthese_soustractive/</guid>
-      <description></description>
+      <guid>https://hotbread.github.io/mao_lamartine/synthese/soustractive/</guid>
+      <description>Le cours théorique - les notions de base sont ici:
+https://www.notion.so/Synth-se-soustractive-7ff70aba38fc42d4a0ca7db0504c9a63</description>
     </item>
     
   </channel>
