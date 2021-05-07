@@ -8,11 +8,29 @@
     <language>en-us</language>
     <lastBuildDate>Sun, 28 Mar 2021 20:05:23 +0200</lastBuildDate><atom:link href="https://hotbread.github.io/mao_lamartine/rack/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>#4 - Le séquenceur</title>
+      <title>#5 - Le séquenceur</title>
       <link>https://hotbread.github.io/mao_lamartine/rack/sequencer/</link>
       <pubDate>Mon, 26 Apr 2021 16:41:24 +0200</pubDate>
       
       <guid>https://hotbread.github.io/mao_lamartine/rack/sequencer/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>#4 Low Frequency Oscillator (LFO)</title>
+      <link>https://hotbread.github.io/mao_lamartine/rack/lfo/</link>
+      <pubDate>Thu, 15 Apr 2021 09:15:44 +0200</pubDate>
+      
+      <guid>https://hotbread.github.io/mao_lamartine/rack/lfo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>#3 Le filtre ADSR</title>
+      <link>https://hotbread.github.io/mao_lamartine/rack/adsr/</link>
+      <pubDate>Wed, 14 Apr 2021 09:15:44 +0200</pubDate>
+      
+      <guid>https://hotbread.github.io/mao_lamartine/rack/adsr/</guid>
       <description>   </description>
     </item>
     

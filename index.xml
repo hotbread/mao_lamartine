@@ -46,7 +46,7 @@ https://www.notion.so/Synth-se-soustractive-7ff70aba38fc42d4a0ca7db0504c9a63</de
     </item>
     
     <item>
-      <title>#4 - Le séquenceur</title>
+      <title>#5 - Le séquenceur</title>
       <link>https://hotbread.github.io/mao_lamartine/rack/sequencer/</link>
       <pubDate>Mon, 26 Apr 2021 16:41:24 +0200</pubDate>
       
@@ -132,6 +132,24 @@ https://www.notion.so/Synth-se-soustractive-7ff70aba38fc42d4a0ca7db0504c9a63</de
       <pubDate>Sat, 17 Apr 2021 08:53:28 +0200</pubDate>
       
       <guid>https://hotbread.github.io/mao_lamartine/reaper/effet/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>#4 Low Frequency Oscillator (LFO)</title>
+      <link>https://hotbread.github.io/mao_lamartine/rack/lfo/</link>
+      <pubDate>Thu, 15 Apr 2021 09:15:44 +0200</pubDate>
+      
+      <guid>https://hotbread.github.io/mao_lamartine/rack/lfo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>#3 Le filtre ADSR</title>
+      <link>https://hotbread.github.io/mao_lamartine/rack/adsr/</link>
+      <pubDate>Wed, 14 Apr 2021 09:15:44 +0200</pubDate>
+      
+      <guid>https://hotbread.github.io/mao_lamartine/rack/adsr/</guid>
       <description>   </description>
     </item>
     
