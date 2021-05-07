@@ -8,7 +8,7 @@
     <language>en-us</language>
     <lastBuildDate>Sun, 28 Mar 2021 20:05:23 +0200</lastBuildDate><atom:link href="https://hotbread.github.io/mao_lamartine/rack/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>#2 - Le séquenceur</title>
+      <title>#4 - Le séquenceur</title>
       <link>https://hotbread.github.io/mao_lamartine/rack/sequencer/</link>
       <pubDate>Mon, 26 Apr 2021 16:41:24 +0200</pubDate>
       
@@ -17,7 +17,16 @@
     </item>
     
     <item>
-      <title>l&#39;oscillateur</title>
+      <title>#1 l&#39;oscillateur</title>
+      <link>https://hotbread.github.io/mao_lamartine/rack/vcavco/</link>
+      <pubDate>Tue, 13 Apr 2021 09:15:44 +0200</pubDate>
+      
+      <guid>https://hotbread.github.io/mao_lamartine/rack/vcavco/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>#1 l&#39;oscillateur</title>
       <link>https://hotbread.github.io/mao_lamartine/rack/oscillo/</link>
       <pubDate>Mon, 12 Apr 2021 09:15:44 +0200</pubDate>
       
