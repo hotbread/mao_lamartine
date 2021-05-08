@@ -8,15 +8,6 @@
     <language>en-us</language>
     <lastBuildDate>Sun, 28 Mar 2021 20:05:15 +0200</lastBuildDate><atom:link href="https://hotbread.github.io/mao_lamartine/reaper/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>#12 - Raccourcis clavier</title>
-      <link>https://hotbread.github.io/mao_lamartine/reaper/raccourcci/</link>
-      <pubDate>Sat, 17 Apr 2021 09:17:21 +0200</pubDate>
-      
-      <guid>https://hotbread.github.io/mao_lamartine/reaper/raccourcci/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>#11 - Personnalisation</title>
       <link>https://hotbread.github.io/mao_lamartine/reaper/personnalisation/</link>
       <pubDate>Sat, 17 Apr 2021 09:17:11 +0200</pubDate>
@@ -49,6 +40,24 @@
       <pubDate>Sat, 17 Apr 2021 09:11:26 +0200</pubDate>
       
       <guid>https://hotbread.github.io/mao_lamartine/reaper/synthetiseur/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>#12 - Raccourcis clavier</title>
+      <link>https://hotbread.github.io/mao_lamartine/reaper/raccourcci/</link>
+      <pubDate>Sat, 17 Apr 2021 09:11:00 +0200</pubDate>
+      
+      <guid>https://hotbread.github.io/mao_lamartine/reaper/raccourcci/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
+      <title>#7 - Drum kit ( part 1 )</title>
+      <link>https://hotbread.github.io/mao_lamartine/reaper/drum_kit2/</link>
+      <pubDate>Sat, 17 Apr 2021 09:10:59 +0200</pubDate>
+      
+      <guid>https://hotbread.github.io/mao_lamartine/reaper/drum_kit2/</guid>
       <description></description>
     </item>
     
