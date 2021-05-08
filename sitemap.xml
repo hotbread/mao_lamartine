@@ -63,11 +63,6 @@
   </url>
   
   <url>
-    <loc>https://hotbread.github.io/mao_lamartine/reaper/drum_kit2/</loc>
-    <lastmod>2021-04-17T09:10:59+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://hotbread.github.io/mao_lamartine/reaper/drum_kit/</loc>
     <lastmod>2021-04-17T09:10:58+02:00</lastmod>
   </url>
@@ -180,6 +175,10 @@
   <url>
     <loc>https://hotbread.github.io/mao_lamartine/</loc>
     <lastmod>2021-03-20T00:08:25+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hotbread.github.io/mao_lamartine/reaper/drum_kit2/</loc>
   </url>
   
   <url>
